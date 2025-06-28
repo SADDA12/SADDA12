@@ -52,7 +52,7 @@ Beyond coding, I bring a unique blend of organizational and administrative stren
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SADDA12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Samantha's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SADDA12&theme=radical&hide_border=true" alt="Samantha's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SADDA12&theme=radical&hide_border=true" alt="Sammie's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SADDA12&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
